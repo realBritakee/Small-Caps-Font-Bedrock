@@ -12,3 +12,4 @@ This resource pack simply changes the default font in Minecraft to the small cap
 ![image_2](https://github.com/user-attachments/assets/58b81443-0c57-4d90-a487-72d75714ae1c)
 ![image_3](https://github.com/user-attachments/assets/c068dcb6-9a8b-43ab-9f4e-7184de65646f)
 
+test
