@@ -13,6 +13,8 @@ This resource pack simply changes the default font in Minecraft to the small cap
 ![image_3](https://github.com/user-attachments/assets/c068dcb6-9a8b-43ab-9f4e-7184de65646f)
 
 # [Download](https://www.mediafire.com/file/t4g96s64hazrn0g/Small_Caps_Font_RP_v1.0.mcpack/file)
+# [Linkvertise Support](https://link-target.net/1217028/small-caps-font-v10)
+
 
 # Changelog
 - Added Custom Font
